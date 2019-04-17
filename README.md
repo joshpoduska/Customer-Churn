@@ -3,7 +3,7 @@
 #### Traditionally at BigTelco, customer churn has been predicted by a combination of [three variables](view/data/baseline.csv). Accuracy is good, but the ROC curve and the confusion matrix show room for improvement. This project uses an [expanded dataset](view/data/churndata.csv) and seeks to get better performance.
 
 
-![image](raw/latest/results/AUC_ACC_Baseline.png) ![image](raw/latest/results/ConfMatx_Baseline.png)
+![image](results/AUC_ACC_Baseline.png) ![image](results/ConfMatx_Baseline.png)
 
 
 
