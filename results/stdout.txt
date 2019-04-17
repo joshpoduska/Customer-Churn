@@ -1,0 +1,5 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython nbconvert` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter nbconvert` in the future
+[NbConvertApp] Converting notebook code/call_churn_api.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: python3
+[NbConvertApp] Writing 2647 bytes to code/call_churn_api.ipynb
